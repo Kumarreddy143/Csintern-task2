@@ -1,0 +1,79 @@
+SpamAssassin
+3.70
+Missing Message-Id: header
+0.10
+Missing Date: header
+1.40
+Informational: message has no Received headers
+N/A
+No valid author signature and domain not in DNS
+0.80
+Informational: message was not relayed via SMTP
+N/A
+BODY: MIME text/plain claims to be ASCII but isn't
+0.30
+The body matches phrases such as "accounts suspended", "account credited", "account verification"
+N/A
+Supposedly from your IT department
+1.00
+Phishing using web form
+N/A
+ADMINISTRATOR NOTICE: The query to dbl.spamhaus.org was blocked due to usage of an open resolver. See https://www.spamhaus.org/returnc/pub/ [URI: microsoft-login-alerts.com]
+N/A
+oleid
+N/A
+There is no suspicious OLE file in attachments.
+N/A
+Headers
+Basic headers
+Message ID	N/A
+Subject	URGENT: Your Microsoft Account Has Been Suspended!
+Date (UTC)	1970-01-01T00:00:00Z
+From	
+To	
+Bodies
+Dear Customer,
+
+We have detected unusual login activity on your Microsoft account and have temporarily locked your account for your safety.
+
+To restore access, please verify your identity immediately by clicking the secure link below:
+
+▶ [Verify Now](http://microsoft-login-alerts.com/verify)
+
+If you do not verify within 24 hours, your account will be permanently suspended.
+
+Thank you for your prompt attention.
+
+Sincerely,  
+Microsoft Account Security Team  
+© 2025 Microsoft Corporation
+Content-Type	N/A
+
+MD5
+e93471655e866a56b400d5fb4e53fe84 
+SHA-1
+ec7f6d6cbdd1e62f1bb0aebd1aebd0ae8093d66b 
+SHA-256
+e5b2b61ed8e071c2b9620517aa046a2a38fe42907945b9d58c74fb3053d06e85 
+SSDEEP
+12:s9GiB2MzQYa67H+m5zu0EVXFuOqbUO4o7dJoSTYdRgWrzCRuBFe:NMzvHrJz+Vs+o7d98/LqIDe 
+TLSH
+T138019E0ED90D68279B8267C23C1C4D1DF55D269320D6FB41F878110C929A79AA3750DD 
+File type
+Email 
+internet
+email
+ 
+Magic
+news or mail, Unicode text, UTF-8 text, with CRLF line terminators 
+Magika
+MHT 
+File size
+668 B (668 bytes)
+History
+First Submission
+2025-08-05 12:42:54 UTC 
+Last Submission
+2025-08-05 12:42:54 UTC 
+Last Analysis
+2025-08-05 12:42:54 UTC
